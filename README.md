@@ -61,10 +61,12 @@ def hapus_data():
     else:
         print("'{}' tidak ditemukan.".format(nama))
 ```
+
 Screanshoot
 ![Input](https://github.com/alviandwipramono/Tugas7/blob/master/no2.png)
 
 ![](https://github.com/alviandwipramono/Tugas7/blob/master/no3.png)
+
 
 - Source Code dan Penjelasan Input Nilai
 ```
@@ -109,6 +111,7 @@ def nakhir():
     return n_akhir
     
 ![Input](https://github.com/alviandwipramono/Tugas7/blob/master/no4.png)
+
 
 - Source Code dan Penjelasan view_Nilai
 ```
@@ -187,7 +190,10 @@ while True:
    -Screashoot
    ![Input](https://github.com/alviandwipramono/Tugas7/blob/master/no5.png)
    
+   
    -  Output
    ![](https://github.com/alviandwipramono/Tugas7/blob/master/no7.png)
+   
+   
    ![](https://github.com/alviandwipramono/Tugas7/blob/master/no8.png)
 

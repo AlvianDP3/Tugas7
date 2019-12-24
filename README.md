@@ -67,7 +67,9 @@ contoh:
 - ![](https://github.com/alviandwipramono/Tugas7/blob/master/no5.png)
 
 # main
-- ![](https://github.com/alviandwipramono/Tugas7/blob/master/no6.pn)
+- ![](https://github.com/alviandwipramono/Tugas7/blob/master/no6.png)
+- ![](https://github.com/aditya-sultan/Tugas7_Praktikum6/blob/master/Capture6.PNG)
+
 
 # Output
 - ![](https://github.com/alviandwipramono/Tugas7/blob/master/no7.png)

@@ -117,7 +117,7 @@ def nakhir():
 ```
 from model.daftar_nilai import daftar
 
-# Menampilkan data
+#Menampilkan data
 def lihat_data():
     print("Daftar Nilai:")
     print("___________________________________________________________________")
@@ -135,7 +135,7 @@ def lihat_data():
         print("=========================TIDAK ADA NILAI===========================")
         print("===================================================================")
 
-# Mencari dan menampilkan data
+#Mencari dan menampilkan data
 def cari_data():
     print("Mencari daftar nilai: ")
     print("=================================================")
@@ -150,7 +150,7 @@ def cari_data():
         print("'{}' tidak ditemukan.".format(nama))
 ```
 -Screanshoot
-![Input]()
+![Input](https://github.com/alviandwipramono/Tugas7/blob/master/no5.png)
 
 - Source Code dan Penjelasan Main
 ```
@@ -192,8 +192,8 @@ while True:
    
    
    -  Output
-   ![](https://github.com/alviandwipramono/Tugas7/blob/master/no7.png)
+   ![Output](https://github.com/alviandwipramono/Tugas7/blob/master/no7.png)
    
-   
-   ![](https://github.com/alviandwipramono/Tugas7/blob/master/no8.png)
+ 
+   ![Output](https://github.com/alviandwipramono/Tugas7/blob/master/no8.png)
 

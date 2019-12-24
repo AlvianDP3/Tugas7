@@ -67,7 +67,6 @@ Screanshoot
 
 ![](https://github.com/alviandwipramono/Tugas7/blob/master/no3.png)
 
-
 - Source Code dan Penjelasan Input Nilai
 ```
 # Menginput data
@@ -112,7 +111,6 @@ def nakhir():
     
 ![Input](https://github.com/alviandwipramono/Tugas7/blob/master/no4.png)
 
-
 - Source Code dan Penjelasan view_Nilai
 ```
 from model.daftar_nilai import daftar
@@ -149,6 +147,7 @@ def cari_data():
     else:
         print("'{}' tidak ditemukan.".format(nama))
 ```
+
 -Screanshoot
 ![Input](https://github.com/alviandwipramono/Tugas7/blob/master/no5.png)
 
@@ -185,15 +184,12 @@ while True:
         hapus_data()
     else:
         print("Silahkan masukan perintah terlebih dahulu.")
-   ```
-   
+   ```   
    -Screashoot
    ![Input](https://github.com/alviandwipramono/Tugas7/blob/master/no5.png)
-   
    
    -  Output
    ![Output](https://github.com/alviandwipramono/Tugas7/blob/master/no7.png)
    
- 
    ![Output](https://github.com/alviandwipramono/Tugas7/blob/master/no8.png)
 
